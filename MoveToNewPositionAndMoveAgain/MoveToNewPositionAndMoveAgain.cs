@@ -10,6 +10,7 @@ public class MoveToNewPositionAndMoveAgain : MonoBehaviour
     public float _timeToFade = 2.0f;
     public float _currentTime = 0f;
     private bool _hasMoved = false;
+    //dfdf
     void Start()
     {
         _color = _blackBackgroundHide.color;
